@@ -1,64 +1,31 @@
-<div align="center">
-  <img src="images/tobb.png" height=170px >
-    <img src="images/logo.png" height=200px>
+# Python Fundamentals — Global AI Hub Course
 
-  <img src="images/tobb2.png" height=170px >
+Course exercises, homework, and a final project completed during the **Global AI Hub Introduction to Python** program in April 2021.
 
-</div>
+## Topics Covered
 
-# GlobalAIHubPythonCourse
+- Variables, data types, and arithmetic operations
+- Strings, indexing, and slicing
+- Lists, dictionaries, sets, and tuples
+- Conditional logic and loops
+- Functions, lambda expressions, modules, and exception handling
+- Introductory NumPy and Pandas workflows
 
-**Course Date:** 05.04.2021-09.04.2021  
-**Name:** Özgür  
-**Surname:** Gümüş  
-**Email:** gumus3113@gmail.com 
+## Repository Structure
 
-## Syllabus
+| Path | Description |
+|---|---|
+| `Day0.ipynb`–`Day4.ipynb` | Daily lesson notebooks |
+| `Numpy.ipynb` | NumPy exercises |
+| `Pandas.ipynb` | Pandas exercises |
+| `homework/` | Daily Python assignments |
+| `final project/Final Project.py` | Course capstone |
 
-### [Lesson 0](https://github.com/globalaihub/introduction-to-python/blob/master/Day0.ipynb)
-- What is Python?
-- Comments
-- Variables
-- Data Types
-- Arithmetic Operations
+## Completion
 
+![Course certificate](./images/certifi.png)
 
-### [Lesson 1](https://github.com/globalaihub/introduction-to-python/blob/master/Day1.ipynb)
-- Logical Operations
-- Type Conversion
-- Indexing and Slicing on Strings
+## Author
 
-
-### [Lesson 2](https://github.com/globalaihub/introduction-to-python/blob/master/Day2.ipynb)
-- Lists
-- If Conditions
-- While Loop
-- For Loop
-
-### [Lesson 3](https://github.com/globalaihub/introduction-to-python/blob/master/Day3.ipynb)
-- Dictionaries
-- Sets
-- Tuples
-
-### [Lesson 4](https://github.com/globalaihub/introduction-to-python/blob/master/Day4.ipynb)
-- Functions
-- Return Statements
-- Lambda Function
-- *args and **kwargs
-- Modules
-- Try-Except
-
-### [Lesson 5](https://github.com/globalaihub/introduction-to-python/blob/master/Day5.ipynb)
-
-- Introduction to NumPy
-- Introduction to Pandas
-
-## Certificate
-![24635943608404](https://user-images.githubusercontent.com/73823527/114541049-e6ebbd00-9c5e-11eb-9022-6218e47c6e8e.png)
-
-
-
-
-
-
+**Özgür Gümüş**
 
